@@ -63,3 +63,11 @@ test/types/index.js
 
 # compiled app
 dist
+
+public/images/*.png
+public/images/*.jpg
+public/images/*.jpeg
+public/images/*.gif
+public/images/*.bmp
+public/images/*.tiff
+public/images/*.svg
